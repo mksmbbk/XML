@@ -1,4 +1,4 @@
-<id>BR #1</id>
+<id>BR #2</id>
 <summary>When a "brown chip" is inserted in its corresponding slot, the “Fifteens” app unexpectedly closes</summary>
 <description>Regardless of the installation of other chips, the brown chip, when installed in its corresponding slot, the application "Fifteens" unexpectedly closes</description>
 <preconditions>Launch the Fifteens app</preconditions>
@@ -8,4 +8,4 @@
 <expected_result>The inscription "Level pased" appears</expected_result>
 <actual_result>The Fifteens app closes unexpectedly</actual_result>
 <build_version>984321698</build_version>
-<environment>Hardware: Asus VivoBook 15 X570DD Mobile QuadCore AMD Ryzen 7 3700U, 3347 MHz (33.5 x 100), Application: Fifteens Build ID: 984321698</environment>
+<environment>Hardware: Asus VivoBook 15 X570DD Mobile QuadCore AMD Ryzen 7 3700U, 3347 MHz (33.5 x 100), OS Windows 10, Application: Fifteens Build ID: 984321698</environment>
